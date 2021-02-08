@@ -10,6 +10,7 @@
 	"contact": {},
 	"license": "GPL-3.0",
 	"environment": "client",
+	"icon": "assets/optifinezoom/icon.png",
 	"entrypoints": {
 		"main": [
 			"me.ivanyf.optifinezoom.OptifineZoom"
