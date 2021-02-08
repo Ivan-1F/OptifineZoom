@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "optifinezoom",
+	"version": "${version}",
+	"name": "Optifine Zoom",
+	"description": "A mod to let you zoom in and out like optifine",
+	"authors": [
+		"IvanYF"
+	],
+	"contact": {},
+	"license": "GPL-3.0",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"me.ivanyf.optifinezoom.OptifineZoom"
+		]
+	},
+	"mixins": [
+		"optifinezoom.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.11.1",
+		"fabric-key-binding-api-v1": "*",
+		"minecraft": "1.15.2"
+	}
+}
