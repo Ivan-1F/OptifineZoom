@@ -7,7 +7,10 @@
 	"authors": [
 		"IvanYF"
 	],
-	"contact": {},
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/optifinezoom",
+		"sources": "https://github.com/Ivan-YFw/OptifineZoom"
+	},
 	"license": "GPL-3.0",
 	"environment": "client",
 	"icon": "assets/optifinezoom/icon.png",
