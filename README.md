@@ -9,4 +9,6 @@ A fabric mod to give you optifine-style zoom without installing [optifine](https
 
 You can now enjoy the zoom with [sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)!
 
+The default key is `C`, which is the same as optifine. However, you can change it in the game options screen
+
 This is a client side only mod. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) is required
