@@ -1,0 +1,5 @@
+{
+	"optifinezoom.category.optifinezoom": "Optifine Zoom",
+	"optifinezoom.key.zoom": "Zoom",
+	"optifinezoom.message.change_fov_success": "§aSuccessfully change the target fov to %d"
+}
