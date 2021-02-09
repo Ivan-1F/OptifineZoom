@@ -56,7 +56,7 @@ public class OptifineZoom implements ModInitializer {
                                     .executes(context -> {
                                 int fov = getInteger(context, "fov");
                                 targetFov = fov;
-                                context.getSource().getPlayer().sendMessage(new TranslatableText("optifinezoom.message.change_fov_success", fov));
+                                context.getSource().getPlayer().sendMessage(new TranslatableText("optifinezoom.message.change_fov_success", fov), false);
                                 return 1;
                             }))));
         }));
