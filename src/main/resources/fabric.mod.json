@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"me.ivanyf.optifinezoom.OptifineZoom"
+		],
+		"cotton-client-commands": [
+			"me.ivanyf.optifinezoom.OptifineZoom"
 		]
 	},
 	"mixins": [
